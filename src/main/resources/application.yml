@@ -1,1 +1,8 @@
+azure:
+  key-vault:
+    url: https://pki-ippon.vault.azure.net
+    key:
+      name: PKI
+      version: 62c0039c7bd4477b960225068431294a
+
 
